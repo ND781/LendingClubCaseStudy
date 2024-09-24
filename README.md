@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> To identify the driving factors that lead to loan default.
+> To Analyse and identify the driving factors that lead to loan default, through exploratory data analysis techniques.
 
 ## Table of Contents
 * [General Info](#general-information)
