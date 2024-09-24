@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+> A finance company which specialises in lending various types of loans to urban customers wants to analyze the driving factors that lead to loan default.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,7 +10,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- A dataset on borrowers for 5 years (2007-2011) is provided. Different attributes of the dataset include amount of loan taken, number of time the person has defaulted in any account, payment of installments etc. The Company aims to understand patterns in the data so that it can utilise this knowledge for its portfolio and risk assessment. This includes approval of loans, providing the loan at a higher loan rate for those likely to default etc. A data dictionary is also available to understand the fields in the dataset.
+.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
